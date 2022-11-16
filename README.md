@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdel Rahman Yasser Mohamed
 - 👀 I’m interested in C++, C#, Python, css and html
-- 🌱 I’m currently learning php and laravel
+- 🌱 I’m currently learning laravel
 - 📫 How to reach me abdelrahmanyasser.salem@gmail.com
 
 <!---
