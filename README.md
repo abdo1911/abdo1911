@@ -11,6 +11,7 @@
 - 🏢 I'm a Software Engineer and FuLL Stack Web Devolper
 - 👨‍💻 As a Software Engineering, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, Laravel, SQL , html , css and php or anything related to web development.
+- 🌱 I’m currently learning .net
 - ⚡ Fun Fact: I'm a padel tennis palyer
 
 
