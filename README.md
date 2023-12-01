@@ -11,14 +11,13 @@
 - 🏢 I'm a Software Engineer and FuLL Stack Web Devolper
 - 👨‍💻 As a Software Engineering, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, Laravel, SQL , html , css and php or anything related to web development.
-- 📫 fast way to communicate through abdelrahmanyasser.salem@gmail.com
 - ⚡ Fun Fact: I'm a padel tennis palyer
 
 
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/abdelrhman-salem-b571b324a" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Yasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/-abdelrahmanyasser.salem@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+[![Email](https://img.shields.io/badge/Email-abdelrahmanyasser.salem%40gmail.com-4285F4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:abdelrahmanyasser.salem@gmail.com)
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -33,6 +32,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++%20-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23%20-239120?style=flat&logo=c-sharp&logoColor=white)
+
 
 
 
